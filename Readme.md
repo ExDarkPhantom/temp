@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-##Additional Text below
+##Website Contents
 
-Why not enter text, while you still can?
-Punctuation is tricky.
+1. Index
